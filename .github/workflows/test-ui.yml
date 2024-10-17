@@ -1,4 +1,4 @@
-name: Deploy to Vercel
+name: Deploy to Vercel for test-ui
 
 # Trigger the workflow on pushes to the main branch
 on:
