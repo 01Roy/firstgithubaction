@@ -20,7 +20,7 @@ function App() {
       <p>
         First Project that I'm using Github actions with Vercel Depolyments{" "}
       </p>
-      <p>This is the UI test branch</p>
+      <p>This is the UI test branch newly added</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
